@@ -1,0 +1,17 @@
+  @font-face {
+        font-family: NTLG;
+        src: url('../fonts/NTLG.ttf');
+    }
+
+body{
+font-family: NTLG;
+
+background-color: #ff7100
+
+}
+
+
+    
+
+
+  
